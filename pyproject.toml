@@ -3,6 +3,7 @@ name = "analyze-prompt-intent"
 version = "0.1.0"
 description = "Detect jailbreak / prompt-injection intent using LM-Studio"
 authors = ["Aaron Sweeney <ajsween@gmail.com>"]
+license = "MIT"
 package-mode = false
 
 [tool.poetry.dependencies]
