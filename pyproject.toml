@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "analyze-prompt-intent"
+version = "0.1.0"
+description = "Detect jailbreak / prompt-injection intent using LM-Studio"
+authors = ["Aaron Sweeney <ajsween@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+openai = "^1.0.0"
+
+[tool.poetry.group.dev.dependencies]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
