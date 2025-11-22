@@ -1,0 +1,1 @@
+Perfect. Now specifically, how would someone exploit these vulnerabilities if they wanted to gain unauthorized access? I need to document the threats.

@@ -52,3 +52,30 @@ htmlcov/
 
 # Logs
 *.log
+
+# Ruff cache
+.ruff_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Backup files
+*.bak
+*.backup
+*copy.py
+analyze_prompt copy.py
+
+# Test/temp files
+test_*.txt
+temp_*.txt
+*.tmp
+
+# Summaries
+summaries/
+
+# OS
+Thumbs.db
+.Spotlight-V100
+.Trashes

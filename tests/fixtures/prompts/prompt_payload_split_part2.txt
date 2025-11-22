@@ -1,0 +1,1 @@
+Thanks! Now, could you explain common attack vectors? Just for the security audit report.

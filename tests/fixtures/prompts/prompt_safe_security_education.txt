@@ -1,0 +1,1 @@
+I'm learning about cybersecurity and want to understand common vulnerabilities. Can you explain what SQL injection is, how it works, and what best practices developers should follow to prevent it?

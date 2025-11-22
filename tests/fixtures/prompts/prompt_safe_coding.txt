@@ -1,0 +1,1 @@
+Can you help me write a Python script to automate web scraping? I want to extract product information from e-commerce websites including prices, descriptions, and images.

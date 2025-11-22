@@ -1,0 +1,1 @@
+What are the main differences between supervised and unsupervised machine learning? Can you provide examples of when to use each approach?
